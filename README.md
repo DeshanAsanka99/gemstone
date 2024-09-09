@@ -21,10 +21,5 @@ This project is a deep learning-based image classification application that clas
 - **Seaborn**: For plotting the confusion matrix
 - **Altair**: For interactive visualizations
 
-## Setup
-
-### 1. Clone the Repository
-
-```bash
-git clone https://gemstones-vz3pzs7avyncap6hnzfiwo.streamlit.app/
-cd yourrepository
+## Product
+https://gemstones-vz3pzs7avyncap6hnzfiwo.streamlit.app/
